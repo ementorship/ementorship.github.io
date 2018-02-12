@@ -1,0 +1,36 @@
+.app-footer {
+	float: left;
+	width: 100%;
+	background-color: #F4F4F4;
+}
+.footer-one-outer {
+	padding: 40px 0;
+}
+.footers-links .title {
+	font-size: 18px;
+	margin: 0 0 10px;
+	line-height: 30px;
+	min-height: 30px;
+	letter-spacing: 0.5px;
+}
+.links-list.nav > li > a {
+	position: relative;
+	display: inline-block;
+	padding: 5px 5px;
+	font-size: 16px;
+	color: #4f4f67;
+	width: auto;
+}
+.footer-two-outer .nav > li
+{
+  display: inline-block;
+}
+.footer-two-outer {
+	border-top: 1px solid #d6d6d6;
+	padding: 10px 0;
+	line-height: 50px;
+	vertical-align: middle;
+}
+.footer-socials-links {
+	float: right;
+}

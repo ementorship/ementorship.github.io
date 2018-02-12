@@ -1,0 +1,60 @@
+body{
+  font-size: 14px;
+  font-family: 'work_sansregular', sans-sarrif;
+  color: #333333;
+  line-height: 1.5;
+  font-weight: normal;
+  background: #f9f9f9;
+}
+
+h1, h2, h3, h4{
+  font-family: 'robotomedium', sans-sarrif;
+}
+
+/*@heading-font-family : 'roboto', sans-sarrif;
+@secondary-font-family : 'worksanse', sans-sarrif;*/
+body ul
+{
+  margin: 0;
+  padding: 0;
+}
+body li
+{
+  display: block;
+}
+ body a:hover, body a:active, body a:focus, body a.active{
+   outline: none;
+   text-decoration: none;
+ }
+
+body .mar-b-10{
+  margin-bottom: 10px;
+}
+body .mar-b-20{
+  margin-bottom: 20px;
+}
+body .mar-b-30{
+  margin-bottom: 30px;
+}
+body .mar-t-10{
+  margin-top: 10px;
+}
+body .mar-t-20{
+  margin-top: 20px;
+}
+body .mar-t-30{
+  margin-top: 30px;
+}
+ body .mar-b-50
+ {
+   margin-bottom: 50px
+ }
+ .ver-mdl {
+ 	vertical-align: middle;
+ 	display: table-cell;
+ }
+ .app-wrapper {
+	width: 100%;
+	float: left;
+	padding-top: 60px;
+}
